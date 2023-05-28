@@ -1,0 +1,1 @@
+This directory contains ALX tasks in the 0x03. C - Debugging project.
